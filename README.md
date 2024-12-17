@@ -7,7 +7,7 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 🌱 In addition to Android Development, I am interest in Programming, Design, Blockchain, Chatbot, Business & Innovation.
 
 ## 📫 Social
-[![Facebook Badge](https://img.shields.io/badge/-MikkiPastel-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/o.oni.p.pound/)](https://www.facebook.com/o.oni.p.pound)
+[![Facebook Badge](https://img.shields.io/badge/-Arthittakun-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/o.oni.p.pound/)](https://www.facebook.com/o.oni.p.pound)
 
 ## 💻 My Tech Stack
 
