@@ -2,9 +2,9 @@
 
 ![Banner](/image/profile.png)
 
-I am a full-time Android Developer and part-time Content Creator in MikkiPastel. I have started Android Development since the internship and develop some applications to join some contest to get more experience then my goals are made application to solve user problem, answer business and improve myself to share knowledge in my blog. 
+I am a student at Rajabhat University Chiang Rai, currently passionate about web and Android application development, as well as exploring Internet of Things (IoT) technologies. I enjoy learning and creating projects that help me expand my knowledge in these fields. 
 
-🌱 In addition to Android Development, I am interest in Programming, Design, Blockchain, Chatbot, Business & Innovation.
+🎯My goal is to grow and develop in a way that best meets user needs.
 
 ## 📫 Social
 [![Facebook Badge](https://img.shields.io/badge/-Arthittakun-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/o.oni.p.pound/)](https://www.facebook.com/o.oni.p.pound)
