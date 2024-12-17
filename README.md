@@ -56,8 +56,8 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white)
 ## 📈 Github Stat
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=arthittakun&count_private=true&theme=onedark&show_icons=true)](https://github.com/arthittakun)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthittakun&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/arthittakun)
 
 
