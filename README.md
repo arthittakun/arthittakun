@@ -28,8 +28,3 @@ I'm a student at **Rajabhat University Chiang Rai**, passionate about web and An
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 📈 **GitHub Stats**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthittakun&count_private=true&theme=onedark&show_icons=true)](https://github.com/arthittakun)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthittakun&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/arthittakun)
