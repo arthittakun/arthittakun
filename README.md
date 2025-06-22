@@ -38,12 +38,11 @@ I'm a student at **Rajabhat University Chiang Rai**, passionate about web and An
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 *GitHub Stats*
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arthittakun&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&custom_title=Arthittakun's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthittakun&layout=compact&langs_count=10&hide_border=true&custom_title=Top Languages&theme=onedark" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthittakun&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&custom_title=Arthittakun's%20GitHub%20Stats&hide_border=true)](https://github.com/arthittakun)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthittakun&layout=compact&langs_count=10&hide_border=true&theme=onedark&custom_title=Top%20Languages)](https://github.com/arthittakun)
+
 
 
